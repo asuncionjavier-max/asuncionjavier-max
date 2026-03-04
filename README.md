@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Me llamo Javier Asunción estudie un grado superior de Marketing y publicidad actualmente estoy haciendo un bootcamp full stack 
 <!--
 **asuncionjavier-max/asuncionjavier-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
